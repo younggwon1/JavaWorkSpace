@@ -1,0 +1,16 @@
+3월 10, 2022 11:08:20 오전 Chapter6.CH11.MyLogger log
+WARNING: test
+3월 10, 2022 11:08:20 오전 Chapter6.CH11.MyLogger log
+SEVERE: test
+3월 10, 2022 11:08:27 오전 Chapter6.CH11.MyLogger warning
+WARNING: name must not be null
+3월 10, 2022 11:08:27 오전 Chapter6.CH11.MyLogger warning
+WARNING: 이름이 너무 길어요
+3월 10, 2022 3:54:16 오후 Chapter6.CH11.MyLogger log
+WARNING: test
+3월 10, 2022 3:54:16 오후 Chapter6.CH11.MyLogger log
+SEVERE: test
+3월 10, 2022 3:56:43 오후 Chapter6.CH11.MyLogger log
+WARNING: test
+3월 10, 2022 3:56:43 오후 Chapter6.CH11.MyLogger log
+SEVERE: test
